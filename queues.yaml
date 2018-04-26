@@ -1,4 +1,4 @@
 sqs:
   - green-squad-critical:
-    - cam-msa-billing-dev-BillingDeadLetterQueue-2XPKU0TT52SY: 0
-    - cam-msa-billing-dev-CustomerDeadLetterQueue-1BDQQBFLVR7IS: 0
+    - cam-msa-billing-prod-BillingDeadLetterQueue-1M1KV154XRKOI: 0
+    - cam-msa-billing-prod-CustomerDeadLetterQueue-1T0J2VTSOFK5M: 0
